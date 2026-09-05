@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Kumar 👋
+# Hi, I'm Himanshu Kumar 
 
 ## B.Tech CSE Graduate | Aspiring Full-Stack Developer
 
