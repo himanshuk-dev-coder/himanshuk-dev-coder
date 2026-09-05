@@ -65,11 +65,11 @@ A web application designed to help students organize and manage their study-rela
 
 ---
 
-## 📝 Blog Web Application
+## 📝 Link Squeeze URL Shortener
 
-A responsive web application for creating and displaying blog content with a clean user interface.
+A Web-based application designed to help Users to create ShortLinks for providing the Long URLs
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+**Tech:** EJS • Node.js • Express.js • MySQL
 
 
 ---
