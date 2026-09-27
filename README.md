@@ -110,7 +110,7 @@ I'm actively improving my problem-solving skills through:
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar)
+- 💼 **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-0b0982aa)
 - 💻 **GitHub:** [himanshuk-dev-coder](https://github.com/himanshuk-dev-coder)
 - 🧩 **LeetCode:** [himanshuk2046](https://leetcode.com/u/himanshu2046/)
 
