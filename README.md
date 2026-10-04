@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu Kumar 
 
-## B.Tech CSE Graduate | Aspiring Full-Stack Developer
+## B.Tech CSE Graduate | Aspiring MERN Full-Stack Developer
 
 I'm a Computer Science graduate passionate about building practical and user-focused web applications.
 
